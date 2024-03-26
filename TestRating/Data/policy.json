@@ -1,0 +1,18 @@
+{
+  "type": "Travel",
+  "Days": "10",
+  "Country": "Italy"
+}
+
+//{
+//  "type": "Health",
+//  "Gender": "Female",
+//  "Deductible": "500"
+//}
+
+//{
+//  "type": "Life",
+//  "Amount": "10",
+//  "DateOfBirth": "7/7/1977"
+//}
+
